@@ -16,4 +16,4 @@ Below are some of the songs the AI created, which sound pretty realistic. The fi
 
 ---
 
-© 2020 [Moses Odhiambo](https:/github.com/badass-techie)
+© 2020 [Moses Odhiambo](https://github.com/badass-techie)
